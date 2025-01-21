@@ -1,16 +1,18 @@
-## Hi there 👋
+### hey 👋
 
-<!--
-**kwon-soonwoo/kwon-soonwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm soonwoo! 
 
-Here are some ideas to get you started:
+i am a computer science student at the university of connecticut, primarily interested in full-stack development, working with llms, and data science. i just finished working on weav, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i'm always open to help and advise on any topic or project, don't be afraid to reach out! similarily, feel free to ask any questions!
+
+
+wanna reach me? 📫
+- email: soonwoo.kwon@uconn.edu
+- linkedin: www.linkedin.com/in/soonwook/
+     
+
+<br />
+
+[![My Skills](https://skillicons.dev/icons?i=react,py,java,js,sklearn,tailwind)](https://skillicons.dev)
+
