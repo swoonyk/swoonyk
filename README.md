@@ -2,7 +2,7 @@
 
 i'm soonwoo! 
 
-i am a computer science student at the university of connecticut, primarily interested in full-stack development, working with llms, and data science. 
+i am a computer science student at the university of connecticut primarily interested in full-stack development, as well as data science and bayesian methodologies. 
 
 i just finished working on weav, which is a full stack web application that provides friends with the best times to hang out. Through a numerical optimization algorithm, we match the most practical schedule for everyone!
 
