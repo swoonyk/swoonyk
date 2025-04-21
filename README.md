@@ -2,9 +2,9 @@
 
 i'm soonwoo! 
 
-i'm a computer science student at the university of connecticut primarily interested in full-stack development, as well as number theory and bayesian methodologies. 
+i'm a computer science student at the university of connecticut, and i've most recently engrossed myself with machine learning and data science.
 
-i just finished working on iAssist, which is a virtual assistant that looks out for you! Using a YOLO11 vision model, Ollama's llama 3.2 (3B) LLM, and Kokoro for text-to-speech output, visually impaired individuals can navigate their environment with real-time guidance!
+i recently finished working on iAssist, which is a virtual assistant that looks out for you! Using a YOLO11 vision model, Ollama's llama 3.2 (3B) LLM, and Kokoro for text-to-speech output, visually impaired individuals can navigate their environment with real-time guidance!
 
 <br />
 
