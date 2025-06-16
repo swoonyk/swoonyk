@@ -15,9 +15,4 @@ i'm always open to help and advise on any topic or project, don't be afraid to r
 wanna reach me? 📫
 - email: soonwoo.kwon@uconn.edu
 - linkedin: www.linkedin.com/in/soonwook/
-     
-
-<br />
-
-[![My Skills](https://skillicons.dev/icons?i=react,py,java,js,sklearn,tailwind)](https://skillicons.dev)
 
