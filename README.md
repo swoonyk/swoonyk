@@ -2,7 +2,7 @@
 
 i'm soonwoo! 
 
-i'm a computer science student at the university of connecticut! most recently, i've engrossed myself with ML, and transformers in particular!
+i'm a computer science student at the university of connecticut! most recently, i've engrossed myself with ML, and GFNs in particular!
 
 <br />
 
